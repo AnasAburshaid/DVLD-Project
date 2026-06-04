@@ -31,8 +31,7 @@ To get a local copy up and running, follow these simple steps.
 * Microsoft SQL Server (Express or Developer edition)
 
 ### Installation
-```sh
-   git clone [https://github.com/AnasAburshaid/DVLD-Project.git](https://github.com/AnasAburshaid/DVLD-Project.git)
+
 
    
 1. Clone the repository:
