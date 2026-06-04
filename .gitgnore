@@ -1,8 +1,0 @@
-
-# Visual Studio Cache and Build files
-.vs/
-bin/
-obj/
-*.user
-*.suo
-*.cache
