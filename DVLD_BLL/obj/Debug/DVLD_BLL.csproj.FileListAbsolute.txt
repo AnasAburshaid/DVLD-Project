@@ -1,0 +1,9 @@
+C:\Users\amjad\source\repos\C++-OOP-Banking-System\DVLD_BLL\bin\Debug\DVLD_BLL.dll
+C:\Users\amjad\source\repos\C++-OOP-Banking-System\DVLD_BLL\bin\Debug\DVLD_BLL.pdb
+C:\Users\amjad\source\repos\C++-OOP-Banking-System\DVLD_BLL\obj\Debug\DVLD_BLL.csproj.AssemblyReference.cache
+C:\Users\amjad\source\repos\C++-OOP-Banking-System\DVLD_BLL\obj\Debug\DVLD_BLL.csproj.CoreCompileInputs.cache
+C:\Users\amjad\source\repos\C++-OOP-Banking-System\DVLD_BLL\obj\Debug\DVLD_BLL.dll
+C:\Users\amjad\source\repos\C++-OOP-Banking-System\DVLD_BLL\obj\Debug\DVLD_BLL.pdb
+C:\Users\amjad\source\repos\C++-OOP-Banking-System\DVLD_BLL\bin\Debug\DVLD_DAL.dll
+C:\Users\amjad\source\repos\C++-OOP-Banking-System\DVLD_BLL\bin\Debug\DVLD_DAL.pdb
+C:\Users\amjad\source\repos\C++-OOP-Banking-System\DVLD_BLL\obj\Debug\DVLD_BLL.csproj.Up2Date

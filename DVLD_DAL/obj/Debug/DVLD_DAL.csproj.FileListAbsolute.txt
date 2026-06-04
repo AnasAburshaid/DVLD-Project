@@ -1,0 +1,6 @@
+C:\Users\amjad\source\repos\C++-OOP-Banking-System\DVLD_DAL\bin\Debug\DVLD_DAL.dll
+C:\Users\amjad\source\repos\C++-OOP-Banking-System\DVLD_DAL\bin\Debug\DVLD_DAL.pdb
+C:\Users\amjad\source\repos\C++-OOP-Banking-System\DVLD_DAL\obj\Debug\DVLD_DAL.csproj.AssemblyReference.cache
+C:\Users\amjad\source\repos\C++-OOP-Banking-System\DVLD_DAL\obj\Debug\DVLD_DAL.csproj.CoreCompileInputs.cache
+C:\Users\amjad\source\repos\C++-OOP-Banking-System\DVLD_DAL\obj\Debug\DVLD_DAL.dll
+C:\Users\amjad\source\repos\C++-OOP-Banking-System\DVLD_DAL\obj\Debug\DVLD_DAL.pdb

@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amjad\\source\\repos\\C\u002B\u002B-OOP-Banking-System\\DVLD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB50EFAE-F1EE-409E-86D1-BA50AE7A44A7}|DVLD.csproj|C:\\Users\\amjad\\source\\repos\\C\u002B\u002B-OOP-Banking-System\\DVLD\\tests\\testappointmentes\\frmaddedittestappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB50EFAE-F1EE-409E-86D1-BA50AE7A44A7}|DVLD.csproj|solutionrelative:tests\\testappointmentes\\frmaddedittestappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB50EFAE-F1EE-409E-86D1-BA50AE7A44A7}|DVLD.csproj|c:\\users\\amjad\\source\\repos\\c\u002B\u002B-oop-banking-system\\dvld\\applications\\localdrivingapplications\\frmshowapplicationdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB50EFAE-F1EE-409E-86D1-BA50AE7A44A7}|DVLD.csproj|solutionrelative:applications\\localdrivingapplications\\frmshowapplicationdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB50EFAE-F1EE-409E-86D1-BA50AE7A44A7}|DVLD.csproj|c:\\users\\amjad\\source\\repos\\c\u002B\u002B-oop-banking-system\\dvld\\applications\\localdrivingapplications\\frmshowapplicationdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB50EFAE-F1EE-409E-86D1-BA50AE7A44A7}|DVLD.csproj|solutionrelative:applications\\localdrivingapplications\\frmshowapplicationdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB50EFAE-F1EE-409E-86D1-BA50AE7A44A7}|DVLD.csproj|C:\\Users\\amjad\\source\\repos\\C\u002B\u002B-OOP-Banking-System\\DVLD\\tests\\frmtaketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB50EFAE-F1EE-409E-86D1-BA50AE7A44A7}|DVLD.csproj|solutionrelative:tests\\frmtaketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB50EFAE-F1EE-409E-86D1-BA50AE7A44A7}|DVLD.csproj|c:\\users\\amjad\\source\\repos\\c\u002B\u002B-oop-banking-system\\dvld\\applications\\localdrivingapplications\\frmmanagelocallicenseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB50EFAE-F1EE-409E-86D1-BA50AE7A44A7}|DVLD.csproj|solutionrelative:applications\\localdrivingapplications\\frmmanagelocallicenseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB50EFAE-F1EE-409E-86D1-BA50AE7A44A7}|DVLD.csproj|c:\\users\\amjad\\source\\repos\\c\u002B\u002B-oop-banking-system\\dvld\\applications\\localdrivingapplications\\frmmanagelocallicenseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB50EFAE-F1EE-409E-86D1-BA50AE7A44A7}|DVLD.csproj|solutionrelative:applications\\localdrivingapplications\\frmmanagelocallicenseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB50EFAE-F1EE-409E-86D1-BA50AE7A44A7}|DVLD.csproj|c:\\users\\amjad\\source\\repos\\c\u002B\u002B-oop-banking-system\\dvld\\tests\\frmtaketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB50EFAE-F1EE-409E-86D1-BA50AE7A44A7}|DVLD.csproj|solutionrelative:tests\\frmtaketest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D8A67C-B3CA-4EFB-8282-70BF97B1E693}|..\\DVLD_DAL\\DVLD_DAL.csproj|c:\\users\\amjad\\source\\repos\\c\u002B\u002B-oop-banking-system\\dvld_dal\\clslocallicenseapplications_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB50EFAE-F1EE-409E-86D1-BA50AE7A44A7}|DVLD.csproj|C:\\Users\\amjad\\source\\repos\\C\u002B\u002B-OOP-Banking-System\\DVLD\\frmmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB50EFAE-F1EE-409E-86D1-BA50AE7A44A7}|DVLD.csproj|solutionrelative:frmmainscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB50EFAE-F1EE-409E-86D1-BA50AE7A44A7}|DVLD.csproj|C:\\Users\\amjad\\source\\repos\\C\u002B\u002B-OOP-Banking-System\\DVLD\\people\\controls\\uspersoncardfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB50EFAE-F1EE-409E-86D1-BA50AE7A44A7}|DVLD.csproj|solutionrelative:people\\controls\\uspersoncardfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D5A50A-B6DA-43A5-846D-26B5C65C99CA}|..\\DVLD_BLL\\DVLD_BLL.csproj|c:\\users\\amjad\\source\\repos\\c\u002B\u002B-oop-banking-system\\dvld_bll\\clslocallicenseapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmShowApplicationDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\source\\repos\\C\u002B\u002B-OOP-Banking-System\\DVLD\\Applications\\LocalDrivingApplications\\frmShowApplicationDetails.cs",
+              "RelativeDocumentMoniker": "Applications\\LocalDrivingApplications\\frmShowApplicationDetails.cs",
+              "ToolTip": "C:\\Users\\amjad\\source\\repos\\C\u002B\u002B-OOP-Banking-System\\DVLD\\Applications\\LocalDrivingApplications\\frmShowApplicationDetails.cs [Design]",
+              "RelativeToolTip": "Applications\\LocalDrivingApplications\\frmShowApplicationDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T12:41:06.895Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmShowApplicationDetails.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\source\\repos\\C\u002B\u002B-OOP-Banking-System\\DVLD\\Applications\\LocalDrivingApplications\\frmShowApplicationDetails.cs",
+              "RelativeDocumentMoniker": "Applications\\LocalDrivingApplications\\frmShowApplicationDetails.cs",
+              "ToolTip": "C:\\Users\\amjad\\source\\repos\\C\u002B\u002B-OOP-Banking-System\\DVLD\\Applications\\LocalDrivingApplications\\frmShowApplicationDetails.cs",
+              "RelativeToolTip": "Applications\\LocalDrivingApplications\\frmShowApplicationDetails.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAQwEQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T13:01:21.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmManageLocalLicenseApplications.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\source\\repos\\C\u002B\u002B-OOP-Banking-System\\DVLD\\Applications\\LocalDrivingApplications\\frmManageLocalLicenseApplications.cs",
+              "RelativeDocumentMoniker": "Applications\\LocalDrivingApplications\\frmManageLocalLicenseApplications.cs",
+              "ToolTip": "C:\\Users\\amjad\\source\\repos\\C\u002B\u002B-OOP-Banking-System\\DVLD\\Applications\\LocalDrivingApplications\\frmManageLocalLicenseApplications.cs [Design]",
+              "RelativeToolTip": "Applications\\LocalDrivingApplications\\frmManageLocalLicenseApplications.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T13:00:53.344Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmManageLocalLicenseApplications.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\source\\repos\\C\u002B\u002B-OOP-Banking-System\\DVLD\\Applications\\LocalDrivingApplications\\frmManageLocalLicenseApplications.cs",
+              "RelativeDocumentMoniker": "Applications\\LocalDrivingApplications\\frmManageLocalLicenseApplications.cs",
+              "ToolTip": "C:\\Users\\amjad\\source\\repos\\C\u002B\u002B-OOP-Banking-System\\DVLD\\Applications\\LocalDrivingApplications\\frmManageLocalLicenseApplications.cs",
+              "RelativeToolTip": "Applications\\LocalDrivingApplications\\frmManageLocalLicenseApplications.cs",
+              "ViewState": "AgIAAD4BAAAAAAAAAAAQwFMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T13:00:57.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmTakeTest.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\source\\repos\\C\u002B\u002B-OOP-Banking-System\\DVLD\\Tests\\frmTakeTest.cs",
+              "RelativeDocumentMoniker": "Tests\\frmTakeTest.cs",
+              "ToolTip": "C:\\Users\\amjad\\source\\repos\\C\u002B\u002B-OOP-Banking-System\\DVLD\\Tests\\frmTakeTest.cs",
+              "RelativeToolTip": "Tests\\frmTakeTest.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAqwGcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T14:01:08.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmTakeTest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\source\\repos\\C\u002B\u002B-OOP-Banking-System\\DVLD\\Tests\\frmTakeTest.cs",
+              "RelativeDocumentMoniker": "Tests\\frmTakeTest.cs",
+              "ToolTip": "C:\\Users\\amjad\\source\\repos\\C\u002B\u002B-OOP-Banking-System\\DVLD\\Tests\\frmTakeTest.cs [Design]",
+              "RelativeToolTip": "Tests\\frmTakeTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T14:01:03.551Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAddEditTestAppointment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\source\\repos\\C\u002B\u002B-OOP-Banking-System\\DVLD\\Tests\\TestAppointmentes\\frmAddEditTestAppointment.cs",
+              "RelativeDocumentMoniker": "Tests\\TestAppointmentes\\frmAddEditTestAppointment.cs",
+              "ToolTip": "C:\\Users\\amjad\\source\\repos\\C\u002B\u002B-OOP-Banking-System\\DVLD\\Tests\\TestAppointmentes\\frmAddEditTestAppointment.cs [Design]",
+              "RelativeToolTip": "Tests\\TestAppointmentes\\frmAddEditTestAppointment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T14:00:55.286Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsLocalLicenseApplications_DAL.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\source\\repos\\C\u002B\u002B-OOP-Banking-System\\DVLD_DAL\\clsLocalLicenseApplications_DAL.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DAL\\clsLocalLicenseApplications_DAL.cs",
+              "ToolTip": "C:\\Users\\amjad\\source\\repos\\C\u002B\u002B-OOP-Banking-System\\DVLD_DAL\\clsLocalLicenseApplications_DAL.cs",
+              "RelativeToolTip": "..\\DVLD_DAL\\clsLocalLicenseApplications_DAL.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAmwLcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T10:20:59.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsLocalLicenseApplications.cs",
+              "DocumentMoniker": "C:\\Users\\amjad\\source\\repos\\C\u002B\u002B-OOP-Banking-System\\DVLD_BLL\\clsLocalLicenseApplications.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_BLL\\clsLocalLicenseApplications.cs",
+              "ToolTip": "C:\\Users\\amjad\\source\\repos\\C\u002B\u002B-OOP-Banking-System\\DVLD_BLL\\clsLocalLicenseApplications.cs",
+              "RelativeToolTip": "..\\DVLD_BLL\\clsLocalLicenseApplications.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAqwG0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T10:20:36.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmMainScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\source\\repos\\C\u002B\u002B-OOP-Banking-System\\DVLD\\frmMainScreen.cs",
+              "RelativeDocumentMoniker": "frmMainScreen.cs",
+              "ToolTip": "C:\\Users\\amjad\\source\\repos\\C\u002B\u002B-OOP-Banking-System\\DVLD\\frmMainScreen.cs [Design]",
+              "RelativeToolTip": "frmMainScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T15:54:41.5Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsPersonCardFilter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amjad\\source\\repos\\C\u002B\u002B-OOP-Banking-System\\DVLD\\People\\Controls\\UsPersonCardFilter.cs",
+              "RelativeDocumentMoniker": "People\\Controls\\UsPersonCardFilter.cs",
+              "ToolTip": "C:\\Users\\amjad\\source\\repos\\C\u002B\u002B-OOP-Banking-System\\DVLD\\People\\Controls\\UsPersonCardFilter.cs [Design]",
+              "RelativeToolTip": "People\\Controls\\UsPersonCardFilter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T15:54:02.831Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
