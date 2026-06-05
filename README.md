@@ -115,28 +115,39 @@ git clone https://github.com/AnasAburshaid/DVLD-Project.git
 * Press `Ctrl + Shift + B` to build the solution.
 * Press `F5` to run the application.
 
-📸 Screenshots
-(Login Screen)
+###📸 Screenshots
+
+##(Login Screen)
+
 <img width="1677" height="1067" alt="image" src="https://github.com/user-attachments/assets/22863804-f350-44b4-b945-e7ff3539ec72" />
 
-(Applications/Main Screen)
+##(Applications/Main Screen)
+
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/8511d9d6-879f-45fe-bc78-69f308ebd89d" />
 
-(Test Scheduling & Appointments)
+##(Test Scheduling & Appointments)
+
 <img width="1918" height="1078" alt="Screenshot 2026-06-04 164432" src="https://github.com/user-attachments/assets/36e02206-fb68-4163-8dc5-124085c83ab0" />
 
-(License History & Person Info)
+##(License History & Person Info)
+
 <img width="1917" height="1078" alt="Screenshot 2026-06-04 164624" src="https://github.com/user-attachments/assets/fa404bb9-b72b-46a7-a4c9-13f3b4e089a9" />
 
-(License Replacment System)
+##(License Replacment System)
+
 <img width="1918" height="1078" alt="Screenshot 2026-06-04 164944" src="https://github.com/user-attachments/assets/50d3974c-a797-4dc2-867a-cc900f1b8188" />
 
-(Detain Management)
+##(Detain Management)
+
 <img width="1912" height="1078" alt="Screenshot 2026-06-04 164737" src="https://github.com/user-attachments/assets/72aab6eb-ee7a-4b72-8eb4-d5b8bcf5f478" />
 
 👨‍💻 Author
 Anas Amjad Aburshaid
 
 Software Engineering Graduate
+
 LinkedIn Profile
+https://www.linkedin.com/in/anas-aburshaid-950192367/
+
 GitHub Profile
+https://github.com/AnasAburshaid
