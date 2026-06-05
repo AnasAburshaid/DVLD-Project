@@ -32,7 +32,6 @@ namespace DVLD
             this.lblSubtitle = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.pnlFilterBar = new System.Windows.Forms.Panel();
-            this.lblPlaceHolder = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.cmpFilter = new System.Windows.Forms.ComboBox();
             this.txtSearchFilter = new System.Windows.Forms.TextBox();
@@ -148,7 +147,6 @@ namespace DVLD
             // pnlFilterBar
             // 
             this.pnlFilterBar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(240)))), ((int)(((byte)(248)))));
-            this.pnlFilterBar.Controls.Add(this.lblPlaceHolder);
             this.pnlFilterBar.Controls.Add(this.label1);
             this.pnlFilterBar.Controls.Add(this.cmpFilter);
             this.pnlFilterBar.Controls.Add(this.txtSearchFilter);
@@ -158,20 +156,6 @@ namespace DVLD
             this.pnlFilterBar.Name = "pnlFilterBar";
             this.pnlFilterBar.Size = new System.Drawing.Size(1259, 75);
             this.pnlFilterBar.TabIndex = 1;
-            // 
-            // lblPlaceHolder
-            // 
-            this.lblPlaceHolder.AutoSize = true;
-            this.lblPlaceHolder.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(245)))), ((int)(((byte)(248)))), ((int)(((byte)(253)))));
-            this.lblPlaceHolder.Enabled = false;
-            this.lblPlaceHolder.Font = new System.Drawing.Font("Segoe UI Semibold", 10F, System.Drawing.FontStyle.Bold);
-            this.lblPlaceHolder.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(180)))), ((int)(((byte)(190)))), ((int)(((byte)(205)))));
-            this.lblPlaceHolder.Location = new System.Drawing.Point(350, 27);
-            this.lblPlaceHolder.Name = "lblPlaceHolder";
-            this.lblPlaceHolder.Size = new System.Drawing.Size(105, 23);
-            this.lblPlaceHolder.TabIndex = 3;
-            this.lblPlaceHolder.Text = "Type Here ...";
-            this.lblPlaceHolder.Visible = false;
             // 
             // label1
             // 
@@ -427,7 +411,6 @@ namespace DVLD
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.ComboBox cmpFilter;
         private System.Windows.Forms.TextBox txtSearchFilter;
-        private System.Windows.Forms.Label lblPlaceHolder;
         private System.Windows.Forms.Button txtAddPerson;
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;

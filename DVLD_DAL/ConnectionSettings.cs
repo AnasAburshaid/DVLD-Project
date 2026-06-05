@@ -6,9 +6,12 @@ using System.Threading.Tasks;
 
 namespace DVLD_DAL
 {
-    static class ConnectionSettings
+    namespace DVLD_DAL
     {
-        public static string connectionString = "Server=.;Database=DVLD;User Id=sa;Password=123456";
+        static class ConnectionSettings
+        {
+            public static string connectionString = "Server=.;Database=DVLD;User Id=sa;Password=123456";
 
+        }
     }
 }

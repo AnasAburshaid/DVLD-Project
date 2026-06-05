@@ -43,13 +43,11 @@ namespace DVLD
             if (cmpFilter.SelectedIndex == 0)
             {
                 txtSearchFilter.Visible = false;
-                lblPlaceHolder.Visible = false;
             }
 
             else
             {
                 txtSearchFilter.Visible = true;
-                lblPlaceHolder.Visible = true;
             }
         }
         private void txtSearchFilter_TextChanged(object sender, EventArgs e)

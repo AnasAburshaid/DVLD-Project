@@ -1,4 +1,5 @@
 ﻿using DVLD_BLL;
+using Microsoft.SqlServer.Server;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -69,12 +70,12 @@ namespace DVLD
                 lblRetakeFees.Text = _AppTypes.ApplicationFees.ToString();
             }
 
-            double TotalFees = 0;
+            double TotalFees = 0.0;
             _TestTypes = clsTestTypes.Find(_TestTypeID);
 
             if (_TestTypes != null && _AppTypes != null)
             {
-                TotalFees = _TestTypes.TestTypeFees + _AppTypes.ApplicationFees;
+                TotalFees =_TestTypes.TestTypeFees + _AppTypes.ApplicationFees;
             }
 
             lblTotalFees.Text = TotalFees.ToString();

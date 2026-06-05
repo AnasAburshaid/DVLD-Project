@@ -307,15 +307,25 @@ namespace DVLD
 
         private void IssureLicenseToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            frmIssureDrvingLicense frm = new frmIssureDrvingLicense((int)dataGridView1.CurrentRow.Cells[0].Value);
-            frm.ShowDialog();
+            int LocalAppId = (int)dataGridView1.CurrentRow.Cells[0].Value;
+            if (LocalAppId != -1)
+            {
+                frmIssureDrvingLicense frm = new frmIssureDrvingLicense((int)dataGridView1.CurrentRow.Cells[0].Value);
+                frm.ShowDialog();
+            }
+            MessageBox.Show("not found ", "Error", MessageBoxButtons.OK);
             _LoadLocalLicenceApplications();
         }
 
         private void showLicenseToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            frmShowDriverLicenseInfo frm = frmShowDriverLicenseInfo.CreateByLocalAppID((int)dataGridView1.CurrentRow.Cells[0].Value);
-            frm.ShowDialog();
+            int LocalAppId = (int)dataGridView1.CurrentRow.Cells[0].Value;
+            if (LocalAppId != -1)
+            {
+                frmShowDriverLicenseInfo frm = frmShowDriverLicenseInfo.CreateByLocalAppID((int)dataGridView1.CurrentRow.Cells[0].Value);
+                frm.ShowDialog();
+            }
+            MessageBox.Show("not found ", "Error", MessageBoxButtons.OK);
             _LoadLocalLicenceApplications();
         }
 
@@ -327,12 +337,19 @@ namespace DVLD
                 frm.ShowDialog();
                 _LoadLocalLicenceApplications();
             }
+            MessageBox.Show("not found ", "Error", MessageBoxButtons.OK);
         }
 
         private void detailsToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            frmShowApplicationDetails frm = new frmShowApplicationDetails((int)dataGridView1.CurrentRow.Cells[0].Value);
-            frm.ShowDialog();
+            int LocalAppId = (int)dataGridView1.CurrentRow.Cells[0].Value;
+            if (LocalAppId != -1)
+            {
+                frmShowApplicationDetails frm = new frmShowApplicationDetails((int)dataGridView1.CurrentRow.Cells[0].Value);
+                frm.ShowDialog();
+            }
+            MessageBox.Show("not found ", "Error", MessageBoxButtons.OK);
+
         }
     }
 }
