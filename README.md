@@ -4,64 +4,65 @@
 
 DVLD is a comprehensive desktop-based application designed to digitize and streamline the operations of a driving license department.
 
-Built as an advanced educational project, it simulates a real-world enterprise environment by managing the complete lifecycle of drivers, applications, tests, and licenses. The system aims to provide safer, faster, and more reliable processing for complex operations such as license issuance, test scheduling, prerequisite validation, and license detainment management.
+Built as an advanced educational project, it simulates a real-world enterprise environment by managing the complete lifecycle of drivers, applications, tests, and licenses. The system provides safer, faster, and more reliable processing for complex operations such as license issuance, test scheduling, prerequisite validation, and license detainment management.
 
 ---
 
 ## 🏗️ Architecture
 
-This project was built using a strict **N-Tier (3-Tier) Architecture** to ensure scalability, maintainability, and a clear separation of concerns.
+This project follows a strict **N-Tier (3-Tier) Architecture** to ensure scalability, maintainability, and clear separation of concerns.
 
-### Presentation Layer
+### 🎨 Presentation Layer
 
 * Responsive Windows Forms user interface.
 * Modular design based on reusable `UserControls`.
-* Efficient data sharing and navigation across application screens.
+* Efficient navigation and data sharing across application screens.
 
-### Business Logic Layer (BLL)
+### ⚙️ Business Logic Layer (BLL)
 
 * Implements core business rules.
 * Handles prerequisite validations.
-* Manages dynamic fee calculations and application workflows.
+* Manages application workflows and fee calculations.
 
-### Data Access Layer (DAL)
+### 🗄️ Data Access Layer (DAL)
 
 * Provides secure database connectivity.
 * Handles all CRUD operations.
-* Acts as the bridge between the application and the database.
+* Acts as the communication layer between the application and database.
 
 ---
 
 ## ✨ Key Features
 
-### Advanced Test Scheduling & Tracking
+### 📝 Advanced Test Scheduling & Tracking
 
 * Tracks vision, written, and practical driving tests.
 * Automatically validates test requirements.
 * Handles retake applications and associated fees.
 
-### Modular UI Design
+### 🧩 Modular UI Design
 
 * Built using reusable User Controls.
-* Components such as `PersonInfoCard` and `LicenseHistoryViewer` can be utilized across multiple screens.
+* Components such as `PersonInfoCard` and `LicenseHistoryViewer` can be used throughout the application.
 
-### Complete License Lifecycle Management
+### 🪪 Complete License Lifecycle Management
 
 * Issue new licenses.
 * Renew existing licenses.
-* Replace lost or damaged licenses.
-* Manage both local and international driving licenses.
+* Replace lost licenses.
+* Replace damaged licenses.
+* Manage local and international driving licenses.
 
-### Detain & Release System
+### 🚔 Detain & Release System
 
 * Detain licenses when required.
 * Calculate fines automatically.
 * Process release payments securely.
 
-### Application Management
+### 📂 Application Management
 
 * Centralized management of service applications.
-* Tracks application statuses such as:
+* Track application statuses:
 
   * New
   * Completed
@@ -87,67 +88,82 @@ Follow these steps to run the project locally.
 
 ### Prerequisites
 
-* Visual Studio (2019 or later recommended)
+* Visual Studio 2019 or later
 * Microsoft SQL Server (Express or Developer Edition)
 
 ### Installation
 
-#### 1. Clone the Repository
+#### 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/AnasAburshaid/DVLD-Project.git
 ```
 
-#### 2. Setup the Database
+#### 2️⃣ Setup the Database
 
 * Open **Microsoft SQL Server Management Studio (SSMS)**.
-* Execute the provided `DVLD_Database_Script.sql` file located in the repository root.
+* Execute `DVLD_Database_Script.sql`.
 * This will create the database schema and seed the initial data.
 
-#### 3. Configure the Connection String
+#### 3️⃣ Configure the Connection String
 
 * Open the project in Visual Studio.
-* Navigate to the Data Access Layer (`DVLD_DAL`).
-* Locate `ConnectionSettings.cs` or the configuration file (`App.config`).
-* Update the SQL Server instance name to match your local environment.
+* Navigate to `DVLD_DAL`.
+* Locate `ConnectionSettings.cs` or `App.config`.
+* Update the SQL Server instance name to match your environment.
 
-#### 4. Build and Run
+#### 4️⃣ Build and Run
+
 * Press `Ctrl + Shift + B` to build the solution.
 * Press `F5` to run the application.
 
-###📸 Screenshots
+---
 
-##(Login Screen)
+# 📸 Screenshots
 
-<img width="1677" height="1067" alt="image" src="https://github.com/user-attachments/assets/22863804-f350-44b4-b945-e7ff3539ec72" />
+## 🔐 Login Screen
 
-##(Applications/Main Screen)
+<img src="https://github.com/user-attachments/assets/22863804-f350-44b4-b945-e7ff3539ec72" width="100%">
 
-<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/8511d9d6-879f-45fe-bc78-69f308ebd89d" />
+---
 
-##(Test Scheduling & Appointments)
+## 📋 Applications Dashboard
 
-<img width="1918" height="1078" alt="Screenshot 2026-06-04 164432" src="https://github.com/user-attachments/assets/36e02206-fb68-4163-8dc5-124085c83ab0" />
+<img src="https://github.com/user-attachments/assets/8511d9d6-879f-45fe-bc78-69f308ebd89d" width="100%">
 
-##(License History & Person Info)
+---
 
-<img width="1917" height="1078" alt="Screenshot 2026-06-04 164624" src="https://github.com/user-attachments/assets/fa404bb9-b72b-46a7-a4c9-13f3b4e089a9" />
+## 📝 Test Scheduling & Appointments
 
-##(License Replacment System)
+<img src="https://github.com/user-attachments/assets/36e02206-fb68-4163-8dc5-124085c83ab0" width="100%">
 
-<img width="1918" height="1078" alt="Screenshot 2026-06-04 164944" src="https://github.com/user-attachments/assets/50d3974c-a797-4dc2-867a-cc900f1b8188" />
+---
 
-##(Detain Management)
+## 👤 License History & Person Information
 
-<img width="1912" height="1078" alt="Screenshot 2026-06-04 164737" src="https://github.com/user-attachments/assets/72aab6eb-ee7a-4b72-8eb4-d5b8bcf5f478" />
+<img src="https://github.com/user-attachments/assets/fa404bb9-b72b-46a7-a4c9-13f3b4e089a9" width="100%">
 
-👨‍💻 Author
-Anas Amjad Aburshaid
+---
 
-Software Engineering Graduate
+## 🔄 License Replacement System
 
-LinkedIn Profile
-https://www.linkedin.com/in/anas-aburshaid-950192367/
+<img src="https://github.com/user-attachments/assets/50d3974c-a797-4dc2-867a-cc900f1b8188" width="100%">
 
-GitHub Profile
-https://github.com/AnasAburshaid
+---
+
+## 🚔 Detain Management
+
+<img src="https://github.com/user-attachments/assets/72aab6eb-ee7a-4b72-8eb4-d5b8bcf5f478" width="100%">
+
+---
+
+# 👨‍💻 Author
+
+### Anas Amjad Aburshaid
+
+**Software Engineering Graduate**
+
+### Connect with Me
+
+* LinkedIn: https://www.linkedin.com/in/anas-aburshaid-950192367/
+* GitHub: https://github.com/AnasAburshaid
